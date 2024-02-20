@@ -1,2 +1,2 @@
-# C206---A
-Codigos POO
+# C206-A
+Códigos POO
